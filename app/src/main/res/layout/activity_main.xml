@@ -32,4 +32,10 @@
         android:layout_height="wrap_content"
         android:text="普通后台 Service 进程" />
 
+    <Button
+        android:id="@+id/btn_sendtestboardcast"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="测试发送广播" />
+
 </LinearLayout>
